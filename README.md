@@ -1,7 +1,8 @@
 <div align=center>
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Transparent&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dovemayo_gothic&color=%23F79E1F&center=%EA%B1%B0%EC%A7%93%EC%9D%98&vCenter=%EA%B1%B0%EC%A7%93%EC%9D%98&multiline=true&lines=%F0%9F%92%96I+김소예%F0%9F%92%96)
-<!--
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=%23F79E1F&center=%EA%B1%B0%EC%A7%93%EC%9D%98&vCenter=%EA%B1%B0%EC%A7%93%EC%9D%98&multiline=true&lines=%F0%9F%92%96I+want+with+you+in+my+future%F0%9F%92%96)
+
 **skoiyme/skoiyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
