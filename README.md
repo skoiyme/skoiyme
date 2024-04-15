@@ -29,8 +29,7 @@
 
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=skoiyme&count_private=true&custom_title=SOYE&nbsp;HUB&nbsp;🐇..:¨·.·¨:&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/skoiyme/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoiyme&layout=compact&custom_title=Language&nbsp;📖&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/skoiyme/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoiyme&layout=compact&custom_title=&nbsp;Language&nbsp;📖&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
