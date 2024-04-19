@@ -2,7 +2,7 @@
 <div align=center>
 <br><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+20&size=25&pause=1000&color=9999FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%22SOYEHOME%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=25&pause=1000&color=9999FFF3&center=true&vCenter=true&random=false&width=435&lines=SOYEHOME)](https://git.io/typing-svg)
 <br>
 <a href="https://emoji.gg/emoji/2550-keroppiexcited"><img src="https://cdn3.emoji.gg/emojis/2550-keroppiexcited.gif" width="32px" height="32px" alt="keroppiexcited"></a>
 <br><br>
