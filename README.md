@@ -2,7 +2,7 @@
 <div align=center>
 <br><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+20&size=25&pause=1000&color=9999FF&center=true&repeat=false&random=false&width=435&lines=KIMSOYE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+20&size=25&pause=1000&color=9999FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%22SOYEHOME%22)](https://git.io/typing-svg)
 <br>
 <a href="https://emoji.gg/emoji/2550-keroppiexcited"><img src="https://cdn3.emoji.gg/emojis/2550-keroppiexcited.gif" width="32px" height="32px" alt="keroppiexcited"></a>
 <br><br>
@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flate&logo=Visual Studio Code&logoColor=white">
-<br><br>
+<br><br><br><br>
 
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=skoiyme&count_private=true&custom_title=SOYE&nbsp;HUB&nbsp;🐇..:¨·.·¨:&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/skoiyme/github-readme-stats)
