@@ -9,9 +9,10 @@
 
  **ᴀʙᴏᴜᴛ ᴍᴇ** 
 <br>
-[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://blog.naver.com/eyosmik)](https://blog.naver.com/eyosmik)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-9999FF?logo=instagram&logoColor=white&link=https://www.instagram.com/주소)](https://www.instagram.com/주소)
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/eyosmik)](https://blog.naver.com/eyosmik)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-9999FF?logo=instagram&logoColor=white&link=https://www.instagram.com/주소)](https://www.instagram.com/주소)
+[![Notion Badge](https://img.shields.io/badge/-Off_The_Lamp-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/notgaran/1-dcf1fbc35cc049e18eba49a936180fc8?pvs=4)](https://www.notion.so/notgaran/1-dcf1fbc35cc049e18eba49a936180fc8?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/-SEMO_Class-9999FF?logo=notion&logoColor=white&link=https://www.notion.so/notgaran/2-8ce261ef0f5142da863fd9d1f6b6791f?pvs=4)](https://www.notion.so/notgaran/2-8ce261ef0f5142da863fd9d1f6b6791f?pvs=4)
 <br><br>
 
 
