@@ -7,6 +7,7 @@
 <a href="https://emoji.gg/emoji/2550-keroppiexcited"><img src="https://cdn3.emoji.gg/emojis/2550-keroppiexcited.gif" width="32px" height="32px" alt="keroppiexcited"></a>
 <br><br>
 
+
  **ᴀʙᴏᴜᴛ ᴍᴇ** 
 <br>
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/eyosmik)](https://blog.naver.com/eyosmik)
