@@ -2,7 +2,7 @@
 <div align=center>
 <br><br><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=23&pause=1000&color=9999FF&center=true&vCenter=true&random=false&width=435&lines=my%2C+cosmos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=23&pause=1000&color=9999FF&center=true&vCenter=true&random=false&width=435&lines=my%2C+Cosmos)](https://git.io/typing-svg)
 <br>
 <a href="https://emoji.gg/emoji/2550-keroppiexcited"><img src="https://cdn3.emoji.gg/emojis/2550-keroppiexcited.gif" width="32px" height="32px" alt="keroppiexcited"></a>
 <br><br>
@@ -37,6 +37,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoiyme&layout=compact&custom_title=&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)
 
 
-
-
 </div>
+
+<br><br>
