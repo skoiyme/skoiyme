@@ -2,7 +2,7 @@
 <div align=center>
 <br><br><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=23&pause=1000&color=9999FF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+My+Record)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=23&pause=1000&color=9999FF&center=true&vCenter=true&random=false&width=435&lines=my%2C+cosmos)](https://git.io/typing-svg)
 <br>
 <a href="https://emoji.gg/emoji/2550-keroppiexcited"><img src="https://cdn3.emoji.gg/emojis/2550-keroppiexcited.gif" width="32px" height="32px" alt="keroppiexcited"></a>
 <br><br>
@@ -24,15 +24,18 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white"><br> 
  <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flate&logo=Eclipse IDE&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white">
- <img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flate&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flate&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flate&logo=Visual%20Studio%20Code&logoColor=white">
 <br><br><br><br>
 
 [![skoiyme github stats](https://github-readme-stats.vercel.app/api?username=skoiyme&count_private=true&custom_title=SOYE&nbsp;HUB&nbsp;🐇..:¨·.·¨:&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoiyme&layout=compact&custom_title=&nbsp;Language&nbsp;📖&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoiyme&layout=compact&custom_title=&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)
+
 
 
 
